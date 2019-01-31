@@ -16,7 +16,7 @@
 
 思路一：  
 1、创建一个 header 节点。  
-2、遍历链表，每次创建一个节点值和当前节点相同的，然后把 next 指向 header 节点的 next ，再将 header 节点的 next 指向创建节点。  
+2、遍历链表，每次创建一个节点值和当前节点相同的新节点，然后把新节点的 next 指向 header 节点的 next ，再将 header 节点的 next 指向新节点。  
 3、最后返回 header 节点的 next 节点即可。
 
 ```python
