@@ -3,7 +3,7 @@ leetcode刷题记录
 
 | 编号 | 题目 | 难度 |
 | ------ | ------ | ------ |
-| 206 | [reverse-linked-list(反转链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-linked-list.md) | 稍微长一点的文本 |
+| 206 | [reverse-linked-list(反转链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-linked-list.md) | 简单 |
 
 * 002、[add-two-numbers(两数相加)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/add-two-numbers.py)
 * 020、[valid-parentheses(有效的括号)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/valid-parentheses.py)
