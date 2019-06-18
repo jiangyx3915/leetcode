@@ -11,6 +11,7 @@ leetcode刷题记录
 | 234 | [palindrome-linked-list(回文链表表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/palindrome-linked-list.md) | 简单 |
 | 240 | [search-a-2d-matrix-ii(搜索二维矩阵 II)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/search-a-2d-matrix-ii.md) | 中等 |
 | 344 | [reverse-string(反转字符串)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-string.md) | 简单 |
+| 771 | [jewels-and-stones(宝石与石头)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/jewels-and-stones.md) | 简单 |
 
 * 002、[add-two-numbers(两数相加)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/add-two-numbers.py)
 * 020、[valid-parentheses(有效的括号)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/valid-parentheses.py)
