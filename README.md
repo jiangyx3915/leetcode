@@ -5,6 +5,7 @@ leetcode刷题记录
 | ------ | ------ | ------ |
 | 088 | [merge-sorted-array(合并两个有序数组)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-sorted-array.md) | 简单 |
 | 136 | [single-number(只出现一次的数字)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/single-number.md) | 简单 |
+| 141 | [linked-list-cycle(环形链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/linked-list-cycle.md) | 简单 |
 | 169 | [majority-element(求众数)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/majority-element.md) | 简单 |
 | 206 | [reverse-linked-list(反转链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-linked-list.md) | 简单 |
 | 234 | [palindrome-linked-list(回文链表表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/palindrome-linked-list.md) | 简单 |
