@@ -7,6 +7,7 @@ leetcode刷题记录
 | 136 | [single-number(只出现一次的数字)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/single-number.md) | 简单 |
 | 169 | [majority-element(求众数)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/majority-element.md) | 简单 |
 | 206 | [reverse-linked-list(反转链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-linked-list.md) | 简单 |
+| 234 | [palindrome-linked-list(回文链表表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/palindrome-linked-list.md) | 简单 |
 | 240 | [search-a-2d-matrix-ii(搜索二维矩阵 II)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/search-a-2d-matrix-ii.md) | 中等 |
 | 344 | [reverse-string(反转字符串)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/reverse-string.md) | 简单 |
 
