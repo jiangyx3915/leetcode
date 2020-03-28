@@ -8,6 +8,7 @@ leetcode刷题记录
 | 编号 | 题目 | 难度 |
 | ------ | ------ | ------ |
 | 021 | [merge-two-sorted-lists(合并两个有序链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-two-sorted-lists.md)| 简单 |
+| 026 | [remove-duplicates-from-sorted-array(删除排序数组中的重复项)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-array.md)| 简单 |
 | 088 | [merge-sorted-array(合并两个有序数组)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-sorted-array.md) | 简单 |
 | 136 | [single-number(只出现一次的数字)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/single-number.md) | 简单 |
 | 141 | [linked-list-cycle(环形链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/linked-list-cycle.md) | 简单 |
