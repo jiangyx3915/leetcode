@@ -1,3 +1,7 @@
+<!--
+ * @LastEditors: jiang yixin
+ * @Author: jiang yixin
+ -->
 # 题目描述
 
 给定一个链表，判断链表中是否有环。
@@ -49,7 +53,7 @@ class Solution(object):
 
         fast = head.next
         slow = head
-        
+
         # 如果快指针和慢指针相交则存在环
         while fast.next and fast.next.next:
             if fast == slow:
