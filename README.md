@@ -12,6 +12,7 @@ leetcode刷题记录
 | 027 | [remove-element(移除元素)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/remove-element.md)| 简单 |
 | 035 | [search-insert-position(搜索插入位置)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/search-insert-position.md)| 简单 |
 | 058 | [length-of-last-word(最后一个单词的长度)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/length-of-last-word.md)| 简单 |
+| 066 | [plus-one(加一)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/plus-one.md)| 简单 |
 | 088 | [merge-sorted-array(合并两个有序数组)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-sorted-array.md) | 简单 |
 | 136 | [single-number(只出现一次的数字)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/single-number.md) | 简单 |
 | 141 | [linked-list-cycle(环形链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/linked-list-cycle.md) | 简单 |
