@@ -56,7 +56,7 @@ class Solution:
         while i >= 0 or j >= 0:
             m = a[i] if i >= 0 else '0'
             n = b[j] if j >= 0 else '0'
-            sum = m + n + carry
+            sum = int(m) + int(n) + carry
             carry = sum // 2
             result = f'{sum % 2}{result}'
             i -= 1
