@@ -14,6 +14,7 @@ leetcode刷题记录
 | 058 | [length-of-last-word(最后一个单词的长度)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/length-of-last-word.md)| 简单 |
 | 066 | [plus-one(加一)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/plus-one.md)| 简单 |
 | 067 | [add-binary(二进制求和)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/add-binary.md)| 简单 |
+| 069 | [sqrtx(x 的平方根)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/sqrtx.md)| 简单 |
 | 088 | [merge-sorted-array(合并两个有序数组)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-sorted-array.md) | 简单 |
 | 136 | [single-number(只出现一次的数字)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/single-number.md) | 简单 |
 | 141 | [linked-list-cycle(环形链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/linked-list-cycle.md) | 简单 |
