@@ -10,6 +10,7 @@ leetcode刷题记录
 | 021 | [merge-two-sorted-lists(合并两个有序链表)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/merge-two-sorted-lists.md)| 简单 |
 | 026 | [remove-duplicates-from-sorted-array(删除排序数组中的重复项)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-array.md)| 简单 |
 | 027 | [remove-element(移除元素)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/remove-element.md)| 简单 |
+| 028 | [implement-strstr(实现 strStr())](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/implement-strstr.md)| 简单 |
 | 035 | [search-insert-position(搜索插入位置)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/search-insert-position.md)| 简单 |
 | 058 | [length-of-last-word(最后一个单词的长度)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/length-of-last-word.md)| 简单 |
 | 066 | [plus-one(加一)](https://github.com/jiangyx3915/leetcode/blob/master/algorithms/plus-one.md)| 简单 |
